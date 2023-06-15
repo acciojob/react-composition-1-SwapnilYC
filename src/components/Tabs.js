@@ -12,7 +12,7 @@ return(
                 ))
             }
         </ul>
-        <p>This is the content for {selectTab}</p>
+        <p>This is the content for {selectTab}.</p>
     </div>
 );
 }
